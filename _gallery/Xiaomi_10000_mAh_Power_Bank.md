@@ -1,12 +1,12 @@
 ---
 author: fireleaf22
-title: poke-walker
-image_url: poke-walker.jpg
+title: Xiaomi_10000_mAh_Power_Bank
+image_url: Xiaomi_10000_mAh_Power_Bank.jpg
 caption: 'caption'
 license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
 license_text: Public domain
 categories:
-  - video games
+  - Technology
 tags:
-  - Nintendo.inc
+  - Xiaomi
 ---
