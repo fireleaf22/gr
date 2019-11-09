@@ -1,12 +1,12 @@
 ---
 author: fireleaf22
-title: poke-walker
-image_url: poke-walker.jpg
+title:  Poke-Walker
+image_url:  Poke-Walker.jpg
 caption: 'caption'
 license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
 license_text: Public domain
 categories:
-  - video games
+  - Video games
 tags:
-  - Nintendo.inc
+  - Nintendo
 ---
