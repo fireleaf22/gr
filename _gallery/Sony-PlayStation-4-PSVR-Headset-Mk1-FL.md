@@ -1,12 +1,12 @@
 ---
 author: fireleaf22
-title: poke-walker
-image_url: poke-walker.jpg
+title: Sony-PlayStation-4-PSVR-Headset-Mk1-FL
+image_url: Sony-PlayStation-4-PSVR-Headset-Mk1-FL.jpg
 caption: 'caption'
 license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
 license_text: Public domain
 categories:
-  - video games
+  - Video games
 tags:
-  - Nintendo.inc
+  - Sony
 ---
