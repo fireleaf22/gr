@@ -1,17 +1,91 @@
-# Website for Making Interactivity book
+Μαθημα: Επικοινωνία Ανθρώπου-Υπολογιστή
+-
+Ονοματεπώνυμο: Χατζηδάμος Ιωάννης
+-
+ΑΜ: Π2018079
+-
+Παραδοτεο 2
+-
+link to asciinema video: https://asciinema.org/a/280177
 
-This website is served from [Github Pages](https://pages.github.com/) and it is based on the [minimal-mistakes theme](https://github.com/mmistakes/minimal-mistakes), which is dynamically imported on every build with the [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme) plug-in.
+Παραδοτεο 3
+-
+link to asciinema video: https://asciinema.org/a/280180
 
-# Installation
 
-1. Fork this repo
-2. Go to Settings-->Github Pages and find your URL
-3. Optionally feel free to edit the description and/or the main `_config` file to match your repository settings
+Ενδιαμεση αναφορα
+-
+first image:
+-
++ ---
++ author: fireleaf22
++ title: poke-walker
++ image_url: poke-walker.jpg
++ caption: 'caption'
++ license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
++ license_text: Public domain
++ categories:
++   - video games
++ tags:
++   - Nintendo.inc
++ ---
 
-# Development
+Second image:
+-
++ ---
++ author: fireleaf22
++ title: Nintendo64
++ image_url: Nintendo64.jpg
++ caption: 'caption'
++ license_url: 'https://commons.wikimedia.org/wiki/File:Nintendo-64-GB-Transfer-Pak.jpg'
++ license_text: Public domain
++ categories:
++   - video games
++ tags:
++   - Nintendo.inc
++ ---
 
-You can go a long way just by adding/editing files with the Github web interface, but if you really want to hack the internals of this web site, then you might want to get yourself more familiar with the command line and the [jekyll static web site system](https://jekyllrb.com/). In any case, please respect the following licence.
+Third image:
+-
++ ---
++ author: fireleaf22
++ title: Powerglove
++ image_url: Powerglove.jpg
++ caption: 'caption'
++ license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
++ license_text: Public domain
++ categories:
++   - video games
++ tags:
++   - Nintendo.inc
++ ---
 
-# License
+Forth image:
+-
++ ---
++ author: fireleaf22
++ title: Powerbank
++ image_url: Powerbank.jpg
++ caption: 'caption'
++ license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
++ license_text: Public domain
++ categories:
++   - video games
++ tags:
++   - Xiaomi.inc
++ ---
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Fifth image:
+-
++ ---
++ author: fireleaf22
++ title: Playstation-4-VR-Headset
++ image_url: https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg
++ caption: 'caption'
++ license_url: 'https://commons.wikimedia.org/wiki/File:Poke-Walker.jpg'
++ license_text: Public domain
++ categories:
++   - video games
++ tags:
++   - Sony.inc
++ ---
