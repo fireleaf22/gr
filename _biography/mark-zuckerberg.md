@@ -1,7 +1,7 @@
 ---
 author: fireleaf22
 title: "Mark Zuckerberg"
-image_url: /images/alan-kay.jpg
+image_url: /images/Mark_Zuckerberg.jpg
 caption: "Ο Mark Zuckerberg δημιούργησε το Facebook με την ιδέα πως ο κόσμος χρειαζόταν μία υπηρεσία κοινωνικού δικτύου σαν αυτό"
 categories:
   - biography
@@ -10,6 +10,8 @@ tags:
   - Mark Zuckerberg
   - Facebook
 gallery:
-  - image_url: /images/dynabook.png
-    caption: "Το Dynabook είναι ένα σχεδιαστικό όραμα του 1968 για ένα φορητό υπολογιστή τύπου τάμπλετ από τον Alan Kay που απευθύνεται σε παιδιά και μπορεί να προγραμματιστεί με στόχο την προσωπική έκφραση και την επεξεργασία της πληροφορίας"
+  - image_url: /images/Mark_Zuckerberg.jpg
+    caption: "Ο Mark Zuckerberg δημιουργός του 'Facebook'"
+  - image_url: /images/Facebook_Logo.png
+    caption: "Ο Mark Zuckerberg είχε δημιουργήσει το 'CourseMatch' το οποίο έδωσε έμπνευση για την δημιουργία του 'facebook'"
 ---
